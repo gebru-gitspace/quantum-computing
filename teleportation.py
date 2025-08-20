@@ -9,10 +9,11 @@ and measures the results after each teleportation step.
 
 Note: The teleportation process requires a shared entangled state (Bell pair) between the sender and receiver.
 
-BY: Gebru
+Gebru
 Aug 20, 2025
 
 """
+
 from qiskit import QuantumCircuit
 from qiskit_aer import AerSimulator
 from qiskit.visualization import plot_histogram
