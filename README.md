@@ -1,7 +1,15 @@
 # Quantum Algorithms with Qiskit
 
-This repository contains **implementations of fundamental quantum algorithms** using **Qiskit**.  
-These implementations are modular, well-documented, and designed for educational and experimental purposes.
+Quantum computing represents a **new paradigm of computation** that goes beyond the limits of classical systems.  
+Instead of relying solely on **bits (0 or 1)**, quantum computers use **qubits**, which can exist in **superposition** and become **entangled**.  
+This allows quantum algorithms to solve certain problems **more efficiently** than any classical method.
+
+This repository explores these ideas by implementing **fundamental quantum algorithms** with **Qiskit**,  
+demonstrating how computation can be performed in a fundamentally different way.  
+
+The goal is to provide **clear, modular, and educational implementations** for learners, researchers,  
+and enthusiasts who want to experiment with the **building blocks of quantum information processing**.
+
 
 **Implemented Algorithms**:
 
