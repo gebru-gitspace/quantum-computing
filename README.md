@@ -88,4 +88,4 @@ Each algorithm is implemented **modularly**, allowing easy customization and exp
 5. Measure qubits to determine **constant vs balanced**.
 
 ---
-# quantum
+
